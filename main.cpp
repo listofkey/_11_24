@@ -7,8 +7,8 @@ int main(){
     myMap[1]="1";
     myMap[2]="2";
     myMap[3]="3";
-    myMap[4]="4";
     myMap[5]="5";
     myMap[7]="7";
+    myMap[4]="4";
     return 0;
 }
