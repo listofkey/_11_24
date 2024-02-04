@@ -10,5 +10,10 @@ int main(){
     myMap[5]="5";
     myMap[7]="7";
     myMap[4]="4";
+    for (const auto& pair:myMap)
+    {
+        std::cout<<pair.first<<" : "<<pair.second<<std::endl;
+    }
+    
     return 0;
 }
