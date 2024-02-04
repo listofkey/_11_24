@@ -10,5 +10,6 @@ int main(){
     myMap[4]="4";
     myMap[5]="5";
     myMap[6]="6";
+    myMap[7]="7";
     return 0;
 }
