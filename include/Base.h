@@ -1,3 +1,4 @@
+#include <iostream>
 class Base
 {
 private:
@@ -5,4 +6,7 @@ private:
 public:
     Base(/* args */);
     ~Base();
+    virtual void show(){
+        std::cout<<"Base class\n";
+    }
 };
