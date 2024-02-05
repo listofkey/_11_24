@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-8/root/usr/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o -o /home/key/2_4/_11_24/bin/main 

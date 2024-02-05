@@ -1,0 +1,3 @@
+/home/key/2_4/_11_24/build/CMakeFiles/main.dir
+/home/key/2_4/_11_24/build/CMakeFiles/edit_cache.dir
+/home/key/2_4/_11_24/build/CMakeFiles/rebuild_cache.dir
